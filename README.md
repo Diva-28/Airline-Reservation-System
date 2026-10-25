@@ -27,7 +27,6 @@ Node.js installed on your system.
 MySQL database server installed and running.
 Java Development Kit (JDK) for running the Spring Boot backend
 Installation
-Clone the repository to your local machine: git clone https://github.com/your-username/airline-reservation-system.git
 
 Navigate to the project directory: cd airline-reservation-system
 
@@ -38,8 +37,6 @@ Return to the project root directory: cd ..
 Configure the MySQL database connection by editing the application.yaml file in the backend.
 
 Build and run the Spring Boot backend ./mvnw clean install ./mvnw spring-boot:run
-
-Access the application in your web browser at http://localhost:8080/api/v1/**
 
 Technologies Used
 Spring Boot: Backend framework for building the server-side application.
